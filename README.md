@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo, saya Jiddan 👋
 
-<!--
-**jiddanfr/jiddanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Support | Calon Full Stack Developer**  
+📍 Indonesia
 
-Here are some ideas to get you started:
+🌱 Sedang belajar: Flutter, Laravel, Cloud Computing  
+⚡ Fun fact: Nothing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project Unggulan
+- [📱 Spenda Exam](https://github.com/jiddanfr/exam-spenda165) - Aplikasi ujian berbasis Flutter dengan fitur keamanan.
+- [💳 Mini Bank App](https://github.com/jiddanfr/mini-bank) - Sistem tabungan sekolah berbasis Laravel.
+
+## 📊 Statistik GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=jiddanfr&show_icons=true&theme=tokyonight)
